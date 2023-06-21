@@ -1,0 +1,500 @@
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4298.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3071.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3268.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1464.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/438.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4538.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/352.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4824.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1240.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4311.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5244.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/112.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/222.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/164.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1696.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1024.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1579.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4384.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2935.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4280.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2374.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5129.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2966.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4163.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4934.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3013.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4305.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/563.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5043.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4116.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4844.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2992.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3355.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1952.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4608.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3101.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/457.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5341.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2172.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4616.png NOT VALID CAR
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3711.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3335.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3552.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3488.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5048.png NOT VALID CAR
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2122.png NOT VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1336.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3680.png ??
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2412.png ?
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4412.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/229.png VALID
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/724.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3933.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2208.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4569.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5076.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1713.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1869.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1396.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1288.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4660.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1303.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1609.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3182.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4519.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2915.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4072.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1789.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1155.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1457.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4368.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3050.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4598.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3655.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1410.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1971.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4514.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4355.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3607.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5086.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3565.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1711.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3030.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1127.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5205.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/636.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1608.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/232.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5068.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5210.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/675.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/22.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/919.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3941.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1675.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/42.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3437.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5437.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5057.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1736.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/116.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4007.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5090.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2762.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2903.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4978.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2246.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2040.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2359.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/845.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4307.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1522.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3583.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3811.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5156.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3067.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3281.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3986.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3630.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2186.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4320.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1588.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5125.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4323.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3179.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1025.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3215.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1937.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1639.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/155.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1446.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1209.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/122.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3412.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4597.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4225.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4842.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1141.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2089.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3502.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1600.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/560.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2808.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4673.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1093.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/297.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5416.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3316.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5058.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2986.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/562.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4439.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4527.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4974.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2673.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3317.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3641.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/463.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1272.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4908.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/905.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2269.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3247.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3944.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/82.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1105.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/385.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/587.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5104.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1578.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2194.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2279.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/71.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/354.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/900.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5253.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1523.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2071.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4459.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3015.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5324.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4398.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3522.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1130.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2153.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5294.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4056.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3964.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3155.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4411.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/597.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4015.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2249.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3892.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/625.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3850.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4752.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5082.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3226.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2082.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4034.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4079.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5413.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4667.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3307.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3392.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2965.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1252.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/391.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2827.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2055.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2469.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1652.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5065.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3202.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2560.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3306.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/518.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3547.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1642.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2569.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1180.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3123.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1237.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/49.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4418.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/612.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/196.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2058.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/927.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1527.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2250.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1931.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4684.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1550.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3571.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5180.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/9.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4945.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2308.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3590.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1460.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2079.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/79.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/827.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3205.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2427.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1533.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4224.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/594.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/180.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1731.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/692.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3970.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1958.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5146.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2926.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3950.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4301.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4954.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1534.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4880.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2985.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2797.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3713.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2991.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5075.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4270.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1553.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2704.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4859.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2091.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1340.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1370.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3931.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3302.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2643.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1281.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4198.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1904.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3235.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5066.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2697.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5421.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/667.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3595.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2819.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/228.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5375.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2019.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2880.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1144.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1659.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4189.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5070.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3621.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1877.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3119.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/126.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/941.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2014.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4564.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5183.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4410.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1551.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2723.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/698.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5084.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3617.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4482.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/936.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/891.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4103.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1893.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/674.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2690.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5087.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2727.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/591.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5402.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2346.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3549.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3685.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4287.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3721.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2187.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3272.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/746.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1354.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3743.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4024.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5189.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4426.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3246.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2638.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/925.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/455.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3902.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4725.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1327.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4953.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1393.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1372.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3078.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4479.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1369.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3682.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5429.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4022.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2857.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2375.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3112.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4747.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4571.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1812.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/779.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1947.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3772.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3965.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2333.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/278.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1709.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/828.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4432.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/476.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4292.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1190.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1604.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2659.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/393.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1407.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2068.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/543.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4256.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5366.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1402.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4397.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4122.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1881.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2858.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3775.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/23.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/662.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5301.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3478.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4463.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3994.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5011.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4316.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3447.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/35.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1665.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3018.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/285.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/599.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/593.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5051.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5158.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/536.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1546.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/311.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2227.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3232.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/798.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/937.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4157.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4239.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/725.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3287.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4515.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2964.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/209.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5258.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4883.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/892.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3660.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2504.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2900.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1819.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4599.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2521.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5002.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2535.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/288.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/406.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1918.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1693.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/496.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4520.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1264.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2565.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3808.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5047.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5107.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3436.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1174.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4755.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3982.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4127.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1215.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1950.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2943.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/728.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/76.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3081.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2921.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2840.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1193.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4792.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1300.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5316.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/426.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/325.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/947.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1463.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4604.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1199.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/338.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/762.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2520.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1802.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5033.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/575.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3017.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1769.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/4982.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4450.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1942.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1699.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2209.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2876.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3733.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1830.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA1/HR/5370.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1543.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1741.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/893.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3531.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1777.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1932.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4354.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/432.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3476.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3728.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3697.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1477.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/4918.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/912.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1176.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2011.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2439.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/989.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3383.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3064.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3920.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1091.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/2142.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/1894.png
+~/ControlNet-for-BEP/results/inference_on_val_test_run_3_lr_4e-5/GTA_2/HR/3092.png

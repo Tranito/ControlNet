@@ -1,0 +1,115 @@
+/home/long/anaconda3/envs/control/bin/python /home/long/ControlNet-for-BEP/Cityscapes_train.py
+logging improved.
+No module 'xformers'. Proceeding without it.
+ControlLDM: Running in eps-prediction mode
+DiffusionWrapper has 859.52 M params.
+making attention of type 'vanilla' with 512 in_channels
+Working with z of shape (1, 4, 32, 32) = 4096 dimensions.
+making attention of type 'vanilla' with 512 in_channels
+Loaded model config from [./models/cldm_v15.yaml]
+Loaded state_dict from [/home/long/ControlNet-for-BEP/models/control_sd15_ini.ckpt]
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/trainer/configuration_validator.py:280: LightningDeprecationWarning: Base `LightningModule.on_train_batch_start` hook signature has changed in v1.5. The `dataloader_idx` argument will be removed in v1.7.
+  rank_zero_deprecation(
+/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/trainer/configuration_validator.py:287: LightningDeprecationWarning: Base `Callback.on_train_batch_end` hook signature has changed in v1.5. The `dataloader_idx` argument will be removed in v1.7.
+  rank_zero_deprecation(
+initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/1
+----------------------------------------------------------------------------------------------------
+distributed_backend=nccl
+All distributed processes registered. Starting with 1 processes
+----------------------------------------------------------------------------------------------------
+
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name              | Type               | Params
+---------------------------------------------------------
+0 | model             | DiffusionWrapper   | 859 M 
+1 | first_stage_model | AutoencoderKL      | 83.7 M
+2 | cond_stage_model  | FrozenCLIPEmbedder | 123 M 
+3 | control_model     | ControlNet         | 361 M 
+---------------------------------------------------------
+1.2 B     Trainable params
+206 M     Non-trainable params
+1.4 B     Total params
+5,710.058 Total estimated model params size (MB)
+Validation sanity check: 0it [00:00, ?it/s]/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/trainer/data_loading.py:110: UserWarning: The dataloader, val_dataloader 0, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 32 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+Validation sanity check:   0%|                                               | 0/2 [00:00<?, ?it/s]/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/utilities/data.py:56: UserWarning: Trying to infer the `batch_size` from an ambiguous collection. The batch size we found is 7. To avoid any miscalculations, use `self.log(..., batch_size=batch_size)`.
+  warning_cache.warn(
+/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/trainer/data_loading.py:110: UserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 32 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+Epoch 0:   0%|                                                             | 0/497 [00:00<?, ?it/s]Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.16it/s]
+Epoch 0:  43%|▍| 216/497 [06:30<08:27,  1.81s/it, loss=0.162, v_num=46, train/loss_simple_step=0.20Epoch 0:  80%|▊| 400/497 [11:39<02:49,  1.75s/it, loss=0.152, v_num=46, train/loss_simple_step=0.25Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.11it/s]
+Epoch 0: 100%|█| 497/497 [14:27<00:00,  1.75s/it, loss=0.146, v_num=46, train/loss_simple_step=0.13/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/utilities/data.py:56: UserWarning: Trying to infer the `batch_size` from an ambiguous collection. The batch size we found is 3. To avoid any miscalculations, use `self.log(..., batch_size=batch_size)`.
+  warning_cache.warn(
+Epoch 1:   0%| | 0/497 [00:00<?, ?it/s, loss=0.146, v_num=46, train/loss_simple_step=0.138, train/lData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.16it/s]
+Epoch 1:  80%|▊| 400/497 [11:30<02:47,  1.73s/it, loss=0.154, v_num=46, train/loss_simple_step=0.13Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.17it/s]
+Epoch 2:   0%| | 0/497 [00:00<?, ?it/s, loss=0.15, v_num=46, train/loss_simple_step=0.198, train/loData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.19it/s]
+Epoch 2:  80%|▊| 400/497 [11:29<02:47,  1.72s/it, loss=0.125, v_num=46, train/loss_simple_step=0.11Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.17it/s]
+Epoch 3:   0%| | 0/497 [00:00<?, ?it/s, loss=0.15, v_num=46, train/loss_simple_step=0.238, train/loData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.17it/s]
+Epoch 3:  80%|▊| 400/497 [11:28<02:46,  1.72s/it, loss=0.139, v_num=46, train/loss_simple_step=0.21Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.17it/s]
+Epoch 4:   0%| | 0/497 [00:00<?, ?it/s, loss=0.149, v_num=46, train/loss_simple_step=0.223, train/lData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.19it/s]
+Epoch 4:  80%|▊| 400/497 [11:35<02:48,  1.74s/it, loss=0.139, v_num=46, train/loss_simple_step=0.07Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.12it/s]
+Epoch 5:   0%| | 0/497 [00:00<?, ?it/s, loss=0.14, v_num=46, train/loss_simple_step=0.141, train/loData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.13it/s]
+Epoch 5:  80%|▊| 400/497 [11:37<02:49,  1.74s/it, loss=0.124, v_num=46, train/loss_simple_step=0.14Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.15it/s]
+Epoch 6:   0%| | 0/497 [00:00<?, ?it/s, loss=0.134, v_num=46, train/loss_simple_step=0.0611, train/Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.16it/s]
+Epoch 6:  80%|▊| 400/497 [11:32<02:48,  1.73s/it, loss=0.157, v_num=46, train/loss_simple_step=0.20Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 7:   0%| | 0/497 [00:00<?, ?it/s, loss=0.129, v_num=46, train/loss_simple_step=0.102, train/lData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 7:  80%|▊| 400/497 [11:29<02:47,  1.72s/it, loss=0.157, v_num=46, train/loss_simple_step=0.13Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 8:   0%| | 0/497 [00:00<?, ?it/s, loss=0.132, v_num=46, train/loss_simple_step=0.0943, train/Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 8:  80%|▊| 400/497 [11:29<02:47,  1.72s/it, loss=0.143, v_num=46, train/loss_simple_step=0.11Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 9:   0%| | 0/497 [00:00<?, ?it/s, loss=0.148, v_num=46, train/loss_simple_step=0.286, train/lData shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:23<00:00,  2.17it/s]
+Epoch 9:  80%|▊| 400/497 [11:28<02:47,  1.72s/it, loss=0.159, v_num=46, train/loss_simple_step=0.12Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.18it/s]
+Epoch 10:   0%| | 0/497 [00:00<?, ?it/s, loss=0.149, v_num=46, train/loss_simple_step=0.188, train/Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.17it/s]
+Epoch 10:  80%|▊| 400/497 [11:27<02:46,  1.72s/it, loss=0.135, v_num=46, train/loss_simple_step=0.1Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.18it/s]
+Epoch 11:   0%| | 0/497 [00:00<?, ?it/s, loss=0.151, v_num=46, train/loss_simple_step=0.209, train/Data shape for DDIM sampling is (4, 4, 32, 64), eta 0.0                                            
+Running DDIM Sampling with 50 timesteps
+DDIM Sampler: 100%|████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.18it/s]
+Epoch 11:  69%|▋| 343/497 [09:54<04:26,  1.73s/it, loss=0.15, v_num=46, train/loss_simple_step=0.19^C/home/long/anaconda3/envs/control/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py:685: UserWarning: Detected KeyboardInterrupt, attempting graceful shutdown...
+  rank_zero_warn("Detected KeyboardInterrupt, attempting graceful shutdown...")

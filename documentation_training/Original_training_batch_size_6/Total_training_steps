@@ -1,0 +1,4 @@
+After test_run_lr_4e-5: epoch=2-step=1487
+After test_run_1_lr_4e-5 starting with the epoch=2-step=1487.ckpt checkpoint file : epoch=7-step=3967
+After test_run_2_lr_4e-5 starting with the epoch=7-step=3967.ckpt checkpoint file : epoch=19-step=9919.ckpt
+

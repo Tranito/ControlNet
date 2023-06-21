@@ -1,0 +1,6 @@
+to check whether there are a significantly high number of "faulty" images in the generated GTA 
+dataset - we shall conduct a one proportion z test at the ALPHA=0.05 level
+
+H0: sample_prop = population_prop
+Ha: sample_prop != population_prop
+
